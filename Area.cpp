@@ -1,3 +1,5 @@
+//Write functions for calculating area of circle, rectangle, and square and call these functions from main function
+
 #include<iostream>
 using namespace std;
 int aoc(int r){

@@ -1,3 +1,5 @@
+//Accept n characters from user and print is as string.
+
 #include<iostream>
 using namespace std;
 int main(){

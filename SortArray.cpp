@@ -1,3 +1,5 @@
+//Accept n numbers from users and store them in to array, Write a function to sort and display sorted array
+
 #include<iostream>
 using namespace std;
 int sortAr(int ar[],int n){

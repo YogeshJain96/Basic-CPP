@@ -1,3 +1,5 @@
+//Get  4 digit number from user, write a function to calculate sum of digits of the 4-digit number Using Recurrsion
+
 #include<iostream>
 using namespace std;
 int SumAll(int x,int s){

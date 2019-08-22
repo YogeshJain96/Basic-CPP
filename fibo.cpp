@@ -1,3 +1,6 @@
+//Write a recursive function to obtain n numbers of a Fibonacci series
+//(0 1 1 2 3 5 8 13 21 34 55 89...)
+
 #include<iostream>
 using namespace std;
 int fbn(int n,int a,int b,int s){

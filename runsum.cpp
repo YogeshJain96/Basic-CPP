@@ -1,3 +1,4 @@
+//Write a recursive function to obtain the running sum of n numbers
 #include<iostream>
 using namespace std;
 int s=0;

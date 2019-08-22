@@ -1,3 +1,5 @@
+//Accept n number from user and write functions for finding min ,max , second max and second min from these numbers
+
 #include<iostream>
 using namespace std;
 int MinMax(int ar[],int n){

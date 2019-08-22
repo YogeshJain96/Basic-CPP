@@ -1,3 +1,4 @@
+//Write a function for factorial and use the function for printing factorial series like 1 2 6 24 120……
 #include<iostream>
 using namespace std;
 int fact(int n){
